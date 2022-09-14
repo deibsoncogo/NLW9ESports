@@ -1,0 +1,13 @@
+# folders
+node_modules
+coverage
+dist
+build
+tmp
+
+# files extension
+**.log**
+**.env**
+
+# exceptions
+!.env.example
